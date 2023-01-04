@@ -1,4 +1,4 @@
-# Obect-Detection-Model
+# Object-Detection-Model
 Real-time object detection using a remotely accessible Wi-fi camera  **Motivation**:- When it comes to identifying images, we humans can clearly recognize and distinguish different features of objects. 
 This is because our brains have been trained unconsciously with the same set of images that has resulted in the development of capabilities to differentiate between things effortlessly. 
 Contrary to human brains, computer views visuals as an array of numerical values and looks for patterns in the digital image, be it a still, video, graphic, or even live, to recognize and distinguish key features of the image. 
